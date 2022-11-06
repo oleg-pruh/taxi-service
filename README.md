@@ -2,7 +2,8 @@
 
 ### :milky_way:Project description:
 ```
-A simple web-application that supports authentication, registration and other CRUD operations. With this application, you can save/update/delete information about manufacturers, drivers and cars.
+A simple web-application that supports authentication, registration and other CRUD operations.
+With this application, you can save/update/delete information about manufacturers, drivers and cars.
 ```
 
 ## :clipboard:Features:
