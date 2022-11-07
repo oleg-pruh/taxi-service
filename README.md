@@ -41,6 +41,11 @@ about manufacturers, drivers and cars.
 + CSS
 + MySQL
 
+## ⚠️ Requirements
++ Tomcat 9
++ JDK 18
++ MySQL 8
+
 ## ⚙️ Instalation:
 1. Install the project to your computer using the link.
 2. Go to the file `src/main/java/util/ConnectionUtil.java` and replace the variables with your data to connect to the database.
