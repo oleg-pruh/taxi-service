@@ -1,12 +1,14 @@
-# :oncoming_taxi:Taxi-Service:oncoming_taxi:
+# 🚖 Taxi-Service 🚖
 
-### :milky_way:Project description:
+### 🌌 Project description:
 ```
 A simple web-application that supports authentication, registration and other CRUD operations.
-With this application, you can save/update/delete information about manufacturers, drivers and cars.
+The project was developed for the company "Bolt" in order to control the number of drivers,
+cars and their manufacturers. With this application, you can save/update/delete information
+about manufacturers, drivers and cars.
 ```
 
-## :clipboard:Features:
+## 🎯 Features:
 + registration like a driver;
 + authentication like a driver;
 + create/update/remove a manufacturer;
@@ -14,13 +16,32 @@ With this application, you can save/update/delete information about manufacturer
 + create/update/remove a driver;
 + display list of all manufacturers;
 
-## :star2:Technologies used:
+## 📜 Site Structure
++ Login page
+  + Display All Drivers
+  + Display All Cars
+  + Display All Manufacturers
+  + Create new Driver
+  + Create new Car
+  + Create new Manufacturer
+  + Add Driver to Car
+  + Logout
++ Create new driver
+
+## ⭐ Technologies used:
 + Java Servlet API
 + JSTL
 + Tomcat 9
 + Java JDBC
++ Java 11
++ Maven
++ Git
++ JSP
++ HTML5
++ CSS
++ MySQL
 
-## :zap:How to use:
+## ⚙️ Instalation:
 1. Install the project to your computer using the link.
 2. Go to the file `src/main/java/util/ConnectionUtil.java` and replace the variables with your data to connect to the database.
 3. Go to the file `src/main/resources/init_db.sql` and run in the database.
