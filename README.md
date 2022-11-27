@@ -16,7 +16,7 @@ about manufacturers, drivers and cars.
 + create/update/remove a driver;
 + display list of all manufacturers;
 
-## 📜 Site Structure
+## 📜 Website Structure:
 + Login page
   + Display All Drivers
   + Display All Cars
@@ -46,7 +46,7 @@ about manufacturers, drivers and cars.
 + JDK 18
 + MySQL 8
 
-## ⚙️ Instalation:
+## ⚙️ Installation:
 1. Install the project to your computer using the link.
 2. Go to the file `src/main/java/util/ConnectionUtil.java` and replace the variables with your data to connect to the database.
 3. Go to the file `src/main/resources/init_db.sql` and run in the database.
